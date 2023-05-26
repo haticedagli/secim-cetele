@@ -1,0 +1,105 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #eee;
+  justify-content: center;
+  align-items: center;
+  /* Center vertically and horizontally */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1, h2 {
+  font-size: 1em;
+  color: #eee;
+}
+
+.parent {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aday {
+  width: 100%;
+  border-style: solid;
+  border-color: #333;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.bordergreen {
+  border-style: solid;
+  border-color: #333;
+}
+
+.adayisim {
+  color: #333;
+  font-size: 20px;
+}
+
+.adaysayac {
+  color: #333;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin: auto;
+}
+
+.adaysayacgecersiz {
+  color: #333;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+.adayresim {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+.width300 {
+  width: 100%;
+  margin: auto;
+}
+
+.greenButton {
+  background-color: green;
+  color: white;
+  width: 30%;
+  height: 80%;
+  margin: auto;
+}
+
+.redButton {
+  background-color: red;
+  color: white;
+  width: 30%;
+  height: 80%;
+  margin: auto;
+}
+
+.greenButton2 {
+  background-color: green;
+  color: white;
+  width: 15%;
+  margin: auto;
+}
+
+.redButton2 {
+  background-color: red;
+  color: white;
+  width: 15%;
+  margin: auto;
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secim-cetele/static/css/main.21c9a5b2.css",
+    "main.js": "/secim-cetele/static/js/main.04ac8794.js",
+    "static/js/787.28cb0dcd.chunk.js": "/secim-cetele/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/secim-cetele/index.html",
+    "main.21c9a5b2.css.map": "/secim-cetele/static/css/main.21c9a5b2.css.map",
+    "main.04ac8794.js.map": "/secim-cetele/static/js/main.04ac8794.js.map",
+    "787.28cb0dcd.chunk.js.map": "/secim-cetele/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c9a5b2.css",
+    "static/js/main.04ac8794.js"
+  ]
+}
